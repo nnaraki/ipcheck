@@ -1,3 +1,3 @@
-Q. is this an AI slop
+Q. is this an AI slop tool?
 
 A. yes
