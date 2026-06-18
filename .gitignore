@@ -1,0 +1,11 @@
+# ビルド成果物
+/ipcheck
+/ipcheck-*
+
+# OS / エディタ
+.DS_Store
+
+# 組織固有データ（公開リポジトリに入れない）
+deny-ip.txt
+*-ip.txt
+
